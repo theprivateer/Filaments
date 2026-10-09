@@ -1,0 +1,71 @@
+{
+  "catalogueVersion": "2026.10.02.2",
+  "generatedAt": "2026-10-02T12:44:04.038954Z",
+  "generatorVersion": "0.3.1",
+  "inputs": {
+    "studio": {
+      "path": "catalogue/snapshots/studio-prototype.json",
+      "sha256": "57d6dca021893d585ac3180b289be58dd232840424d4b80a16ba156139178c9d"
+    },
+    "store": {
+      "path": "catalogue/snapshots/au-store-prototype.json",
+      "sha256": "1778894eb05150fff8d4e463f5a5da1161f120ce2ca854955255027f0304dbd5"
+    },
+    "overrides": {
+      "path": "catalogue/overrides.json",
+      "sha256": "427faca91bbf43e1b089a2786b80f0d7c69ca618fe12ee3f675c61534fc9753e"
+    },
+    "previous": {
+      "path": "catalogue/snapshots/proof-catalogue.json",
+      "sha256": "09cf6af679af25736198d1a9a49d1d561dc9f0b4a6efafe8eb33d6b5e2f17322"
+    }
+  },
+  "outputs": {
+    "catalogue": {
+      "path": "catalogue/candidates/2026.10.02.2-draft.json",
+      "sha256": "21fef1eceeb0815f66ed53a162518db96672fc500104695547718e44de2e0fc1"
+    },
+    "report": {
+      "path": "catalogue/reports/2026.10.02.2-draft.md",
+      "sha256": "9d716e794cb6969fcc9792f4a91462bf57bccebe26061f90637c623d6fafa196"
+    }
+  },
+  "sourceStudioRevision": "da8b44ee34dd349f2ae0df3f1cbae366df482354",
+  "storeReview": {
+    "status": "draft",
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "notes": [
+      "Prototype mappings only. Each product, colour and packaging form still needs manual confirmation.",
+      "PETG Translucent and Support for PLA/PETG were added from official AU product-page evidence on 2026-10-02; their colour mappings remain draft.",
+      "PLA-CF packaging and all seven colour mappings were added from the official AU page and its linked Bambu Lab hex-code table on 2026-10-02; reviewer approval remains open.",
+      "PLA Galaxy packaging and all four colour mappings were added from the official AU page and its linked Bambu Lab hex-code table on 2026-10-02; reviewer approval remains open.",
+      "PLA Glow and PLA Marble packaging and colour mappings were added from their official AU pages and linked Bambu Lab hex-code tables on 2026-10-02; reviewer approval remains open.",
+      "PLA Metal packaging and all five colour mappings were added from the official AU page and its linked Bambu Lab hex-code table on 2026-10-02; reviewer approval remains open.",
+      "PLA Sparkle and PLA Wood packaging and all twelve colour mappings were added from their official AU pages and linked Bambu Lab hex-code tables on 2026-10-02; reviewer approval remains open.",
+      "PLA Silk+ spool packaging and all thirteen colour mappings were added from the official AU page and its linked Bambu Lab hex-code table on 2026-10-02; reviewer approval remains open.",
+      "PLA Translucent spool packaging and all ten colour mappings were added from the official AU page and its linked Bambu Lab hex-code table on 2026-10-02; reviewer approval remains open.",
+      "PLA Pure and PETG Matte refill-and-spool packaging and all thirteen colour mappings were added from their official AU pages and linked Bambu Lab hex-code tables on 2026-10-02; reviewer approval remains open.",
+      "PETG Basic refill-and-spool packaging and thirteen current colour mappings were added from the official AU page and linked Bambu Lab hex-code table on 2026-10-02. Four additional Studio identities remain unmapped rather than being treated as current or discontinued; reviewer approval remains open.",
+      "ABS refill-and-spool packaging and twelve current colour mappings were added from the official AU page and colour table on 2026-10-02. Four additional Studio identities remain unmapped rather than being treated as current or discontinued; reviewer approval remains open.",
+      "ASA spool packaging and all six colour mappings were added from the official AU page and colour table on 2026-10-02; reviewer approval remains open.",
+      "PLA Tough+ refill-and-spool packaging and all seven colour mappings were added from the live official AU page and its linked Bambu Lab hex-code table on 2026-10-02; reviewer approval remains open.",
+      "PETG-CF refill-and-spool packaging and all six colour mappings were added from the live official AU page and its linked Bambu Lab hex-code table on 2026-10-02; reviewer approval remains open.",
+      "PC FR spool packaging and all three colour mappings were added from the live official AU page and its linked Bambu Lab hex-code table on 2026-10-02; reviewer approval remains open.",
+      "All fourteen PETG HF identities were mapped from the current official AU page and colour table on 2026-10-02. The Red swatch differs from the pinned Studio value, so that entry remains reviewNeeded and retains the Studio swatch pending human review.",
+      "Eight PETG Translucent identities were mapped from the current official AU page and colour table on 2026-10-02. Studio's additional Clear identity remains unmapped rather than being treated as current or discontinued; reviewer approval remains open.",
+      "PVA spool packaging and its Clear identity were added from the live official AU page and official colour-table evidence on 2026-10-02; reviewer approval remains open.",
+      "PLA Basic refill-and-spool packaging and all thirty current solid-colour mappings were added from the live official AU page and linked Bambu Lab colour table on 2026-10-02. Eight Studio gradient identities remain unmapped rather than being treated as current or discontinued; reviewer approval remains open.",
+      "PLA Matte refill-and-spool packaging and all twenty-five colour mappings were added from the live official AU page and visually inspected Bambu Lab colour table on 2026-10-02; reviewer approval remains open.",
+      "Support for PLA and Support for ABS were added from live official AU pages that expose their colour names, five-digit identifiers and spool packaging; reviewer approval remains open.",
+      "The live Support for PA/PET page exposes Green (65500), spool packaging, a sold-out purchase state and an explicit discontinuation notice. The entry remains reviewNeeded until a human approves the discontinuation status.",
+      "PAHT-CF, PA6-CF, PET-CF, PPA-CF, PPS-CF and ASA Aero were added from live official AU pages that expose their single colour, five-digit identity and spool packaging; reviewer approval remains open.",
+      "ABS-GF and PA6-GF spool packaging and all sixteen Studio identities were added from their live official AU pages. ABS-GF Green and Yellow, plus PA6-GF Yellow, Lime and Brown, remain reviewNeeded because the pages explicitly say they have been discontinued; human approval is still required before assigning discontinued.",
+      "ASA-CF Black (46101) was added as reviewNeeded from the live official AU page. The page says its 1 kg variant is discontinued and will be replaced by a future size, so the catalogue status needs human review.",
+      "TPU 85A, TPU 90A, TPU 95A HF and TPU for AMS were added from live official AU product pages that expose every Studio five-digit identity. TPU 85A, TPU 90A and TPU 95A HF are spool-only; TPU for AMS offers refill and spool. Reviewer approval remains open.",
+      "PLA Basic Gradient, PLA Silk Multi-Color and PC were added from their live official AU pages, which expose every matching Studio five-digit identity and spool packaging. Reviewer approval remains open.",
+      "PLA Aero White and Gray were added from its live official AU page. Studio's Black identity remains unmapped because it isn't present in the current page data.",
+      "Support for PLA/PETG Black (65103) was added after the current live official AU page exposed it alongside Nature. Reviewer approval remains open."
+    ]
+  }
+}

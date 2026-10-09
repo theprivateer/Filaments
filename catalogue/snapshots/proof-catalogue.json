@@ -1,0 +1,154 @@
+{
+  "schemaVersion": 1,
+  "catalogueVersion": "2026.10.02.1-prototype",
+  "generatedAt": "2026-10-02T00:00:00Z",
+  "region": "AU",
+  "generatorVersion": "0.1.0",
+  "sourceStudioRevision": "da8b44ee34dd349f2ae0df3f1cbae366df482354",
+  "sourceRetrievalDates": {
+    "bambuStudio": "2026-10-02",
+    "australianStore": "2026-10-02"
+  },
+  "entryCount": 6,
+  "contentChecksum": null,
+  "entries": [
+    {
+      "key": "GFA00:10300",
+      "manufacturer": "Bambu Lab",
+      "profileId": "GFA00",
+      "colourVariantId": "10300",
+      "colourCode": "A0",
+      "materialFamily": "PLA",
+      "materialVariant": "PLA Basic",
+      "name": "Orange",
+      "alternateNames": [],
+      "swatchType": "solid",
+      "colours": ["#FF6A13FF"],
+      "availability": "active",
+      "soldAs": "both",
+      "productURL": "https://au.store.bambulab.com/products/pla-basic-filament",
+      "firstSeen": "2026.10.02.1-prototype",
+      "lastSeenActive": "2026-10-02",
+      "sourceEvidence": {
+        "studioPath": "resources/profiles/BBL/filament/filaments_color_codes.json#GFA00:10300",
+        "australianStoreURL": "https://au.store.bambulab.com/products/pla-basic-filament",
+        "note": "Prototype match; verify the store variant during full catalogue review."
+      }
+    },
+    {
+      "key": "GFA00:10900",
+      "manufacturer": "Bambu Lab",
+      "profileId": "GFA00",
+      "colourVariantId": "10900",
+      "colourCode": "M0",
+      "materialFamily": "PLA",
+      "materialVariant": "PLA Basic",
+      "name": "Arctic Whisper",
+      "alternateNames": [],
+      "swatchType": "gradient",
+      "colours": ["#9CDBD9FF", "#FFFFFFFF"],
+      "availability": "reviewNeeded",
+      "soldAs": "refill",
+      "productURL": "https://au.store.bambulab.com/products/pla-basic-filament",
+      "firstSeen": "2026.10.02.1-prototype",
+      "lastSeenActive": null,
+      "sourceEvidence": {
+        "studioPath": "resources/profiles/BBL/filament/filaments_color_codes.json#GFA00:10900",
+        "australianStoreURL": "https://au.store.bambulab.com/products/pla-basic-filament",
+        "note": "Official gradient swatch confirmed; Australian availability needs manual review."
+      }
+    },
+    {
+      "key": "GFA01:11502",
+      "manufacturer": "Bambu Lab",
+      "profileId": "GFA01",
+      "colourVariantId": "11502",
+      "colourCode": "G0",
+      "materialFamily": "PLA",
+      "materialVariant": "PLA Matte",
+      "name": "Apple Green",
+      "alternateNames": [],
+      "swatchType": "solid",
+      "colours": ["#C2E189FF"],
+      "availability": "active",
+      "soldAs": "both",
+      "productURL": "https://au.store.bambulab.com/products/pla-matte-filament",
+      "firstSeen": "2026.10.02.1-prototype",
+      "lastSeenActive": "2026-10-02",
+      "sourceEvidence": {
+        "studioPath": "resources/profiles/BBL/filament/filaments_color_codes.json#GFA01:11502",
+        "australianStoreURL": "https://au.store.bambulab.com/products/pla-matte-filament",
+        "note": "Prototype match; verify the store variant during full catalogue review."
+      }
+    },
+    {
+      "key": "GFG01:32501",
+      "manufacturer": "Bambu Lab",
+      "profileId": "GFG01",
+      "colourVariantId": "32501",
+      "colourCode": "G1",
+      "materialFamily": "PETG",
+      "materialVariant": "PETG Translucent",
+      "name": "Translucent Teal",
+      "alternateNames": [],
+      "swatchType": "translucent",
+      "colours": ["#77EDD780"],
+      "availability": "reviewNeeded",
+      "soldAs": "spool",
+      "productURL": null,
+      "firstSeen": "2026.10.02.1-prototype",
+      "lastSeenActive": null,
+      "sourceEvidence": {
+        "studioPath": "resources/profiles/BBL/filament/filaments_color_codes.json#GFG01:32501",
+        "australianStoreURL": null,
+        "note": "Official translucent swatch confirmed; Australian listing needs manual review."
+      }
+    },
+    {
+      "key": "GFG02:33102",
+      "manufacturer": "Bambu Lab",
+      "profileId": "GFG02",
+      "colourVariantId": "33102",
+      "colourCode": "K0",
+      "materialFamily": "PETG",
+      "materialVariant": "PETG HF",
+      "name": "Black",
+      "alternateNames": [],
+      "swatchType": "solid",
+      "colours": ["#000000FF"],
+      "availability": "active",
+      "soldAs": "both",
+      "productURL": "https://au.store.bambulab.com/products/petg-hf",
+      "firstSeen": "2026.10.02.1-prototype",
+      "lastSeenActive": "2026-10-02",
+      "sourceEvidence": {
+        "studioPath": "resources/profiles/BBL/filament/filaments_color_codes.json#GFG02:33102",
+        "australianStoreURL": "https://au.store.bambulab.com/products/petg-hf",
+        "note": "Prototype match; verify the store variant during full catalogue review."
+      }
+    },
+    {
+      "key": "GFS05:65102",
+      "manufacturer": "Bambu Lab",
+      "profileId": "GFS05",
+      "colourVariantId": "65102",
+      "colourCode": "C0",
+      "materialFamily": "Support",
+      "materialVariant": "Support for PLA/PETG",
+      "name": "Nature",
+      "alternateNames": ["Natural"],
+      "swatchType": "translucent",
+      "colours": ["#00000000"],
+      "availability": "unknown",
+      "soldAs": "spool",
+      "productURL": null,
+      "firstSeen": "2026.10.02.1-prototype",
+      "lastSeenActive": null,
+      "sourceEvidence": {
+        "studioPath": "resources/profiles/BBL/filament/filaments_color_codes.json#GFS05:65102",
+        "australianStoreURL": null,
+        "note": "Official identity confirmed; Australian listing and packaging need manual review."
+      }
+    }
+  ]
+}

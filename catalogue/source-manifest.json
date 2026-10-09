@@ -1,0 +1,26 @@
+{
+  "catalogueVersion": "2026.10.02.1-prototype",
+  "region": "AU",
+  "sources": [
+    {
+      "name": "Bambu Studio filament colour codes",
+      "revision": "da8b44ee34dd349f2ae0df3f1cbae366df482354",
+      "retrievedAt": "2026-10-02",
+      "url": "https://github.com/bambulab/BambuStudio/blob/da8b44ee34dd349f2ae0df3f1cbae366df482354/resources/profiles/BBL/filament/filaments_color_codes.json",
+      "licence": "AGPL-3.0 repository; redistribution review remains open"
+    },
+    {
+      "name": "Bambu Lab AU store proof pages",
+      "revision": null,
+      "retrievedAt": "2026-10-02",
+      "url": "https://au.store.bambulab.com/collections/bambu-lab-3d-printer-filament",
+      "licence": "Store terms and automated-access review remain open"
+    }
+  ],
+  "status": "prototype",
+  "notes": [
+    "The catalogue contains reviewed identity and swatch samples, not a release-ready Australian catalogue.",
+    "Each store variant and packaging form still needs manual confirmation before release."
+  ]
+}
+
