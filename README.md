@@ -11,3 +11,7 @@ Open `Filaments.xcodeproj` in Xcode, select the **Filaments** scheme and an iPho
 ## Project status
 
 The bundled 274-entry Australian catalogue is a review draft, not a release-approved list. Catalogue matching, availability decisions, source licensing and branding still need sign-off before public distribution. See [manual build notes](docs/manual-review-build.md), [project progress](PROGRESS.md) and [source and branding review](docs/source-and-brand-review.md) for details.
+
+## Licence
+
+The original app and tooling code, and project documentation, are available under the [MIT License](LICENSE). MIT permits commercial reuse. This licence doesn't cover the bundled filament catalogue, source snapshots or other third-party data, and it doesn't grant rights to Bambu Lab names or trademarks. The rights and obligations for sharing the catalogue remain under review in the [source and branding notes](docs/source-and-brand-review.md).
